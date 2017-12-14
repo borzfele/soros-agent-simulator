@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Soros Agent Simulator</string>
+    <string name="main_title">Soros Agent Simulator</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="instructions_body_1">Tap the \'Nyugger\' to kick the sit out of it.</string>
+    <string name="instructions_body_2">More you kick, more \'Sorospéz\' you get.</string>
+    <string name="instructions_body_3">Buy new co-agents \'n\' shet.</string>
+    <string name="instructions_body_4">Make your master proud of you!</string>
+    <string name="button_start">Start!</string>
 </resources>
